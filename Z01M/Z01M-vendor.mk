@@ -2943,6 +2943,7 @@ PRODUCT_PACKAGES += \
     com.quicinc.cne.server@2.0 \
     libbtnv \
     AsusSplendidCommandAgent \
+    access-qcom-logkit \
     libgpustats \
     libsdm-disp-vndapis \
     libthermalclient \
