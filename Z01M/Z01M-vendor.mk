@@ -2587,7 +2587,7 @@ PRODUCT_COPY_FILES += \
     vendor/asus/Z01M/proprietary/xbin/antradio_app:system/xbin/antradio_app \
     vendor/asus/Z01M/proprietary/xbin/dexlist:system/xbin/dexlist \
     vendor/asus/Z01M/proprietary/xbin/strace:system/xbin/strace \
-    vendor/asus/Z01M/proprietary/xbin/tcpdump:system/xbin/tcpdump \
+    vendor/asus/Z01M/proprietary/xbin/tcpdump:system/xbin/tcpdump
 
 PRODUCT_PACKAGES += \
     com.quicinc.cne.api@1.0 \
