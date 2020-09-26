@@ -2003,19 +2003,6 @@ PRODUCT_COPY_FILES += \
     vendor/asus/Z01M/proprietary/lib64/soundfx/libqcomvoiceprocessing.so:system/lib64/soundfx/libqcomvoiceprocessing.so \
     vendor/asus/Z01M/proprietary/lib64/soundfx/libreverbwrapper.so:system/lib64/soundfx/libreverbwrapper.so \
     vendor/asus/Z01M/proprietary/lib64/soundfx/libvisualizer.so:system/lib64/soundfx/libvisualizer.so \
-    vendor/asus/Z01M/proprietary/priv-app/AsusSplendid/AsusSplendid.apk:system/priv-app/AsusSplendid/AsusSplendid.apk \
-    vendor/asus/Z01M/proprietary/priv-app/AsusSplendid/oat/arm64/AsusSplendid.odex:system/priv-app/AsusSplendid/oat/arm64/AsusSplendid.odex \
-    vendor/asus/Z01M/proprietary/priv-app/CNEService/CNEService.apk:system/priv-app/CNEService/CNEService.apk \
-    vendor/asus/Z01M/proprietary/priv-app/CNEService/oat/arm64/CNEService.odex:system/priv-app/CNEService/oat/arm64/CNEService.odex \
-    vendor/asus/Z01M/proprietary/priv-app/com.qualcomm.location/com.qualcomm.location.apk:system/priv-app/com.qualcomm.location/com.qualcomm.location.apk \
-    vendor/asus/Z01M/proprietary/priv-app/com.qualcomm.location/oat/arm64/com.qualcomm.location.odex:system/priv-app/com.qualcomm.location/oat/arm64/com.qualcomm.location.odex \
-    vendor/asus/Z01M/proprietary/priv-app/dpmserviceapp/dpmserviceapp.apk:system/priv-app/dpmserviceapp/dpmserviceapp.apk \
-    vendor/asus/Z01M/proprietary/priv-app/dpmserviceapp/oat/arm64/dpmserviceapp.odex:system/priv-app/dpmserviceapp/oat/arm64/dpmserviceapp.odex \
-    vendor/asus/Z01M/proprietary/priv-app/GmsCore/GmsCore.apk:system/priv-app/GmsCore/GmsCore.apk \
-    vendor/asus/Z01M/proprietary/priv-app/qcrilmsgtunnel/qcrilmsgtunnel.apk:system/priv-app/qcrilmsgtunnel/qcrilmsgtunnel.apk \
-    vendor/asus/Z01M/proprietary/priv-app/qcrilmsgtunnel/oat/arm64/qcrilmsgtunnel.odex:system/priv-app/qcrilmsgtunnel/oat/arm64/qcrilmsgtunnel.odex \
-    vendor/asus/Z01M/proprietary/priv-app/QtiTetherService/QtiTetherService.apk:system/priv-app/QtiTetherService/QtiTetherService.apk \
-    vendor/asus/Z01M/proprietary/priv-app/QtiTetherService/oat/arm64/QtiTetherService.odex:system/priv-app/QtiTetherService/oat/arm64/QtiTetherService.odex \
     vendor/asus/Z01M/proprietary/vendor/qcril.db:system/vendor/qcril.db \
     vendor/asus/Z01M/proprietary/vendor/bin/audioflacapp:system/vendor/bin/audioflacapp \
     vendor/asus/Z01M/proprietary/vendor/bin/chamomile_provision:system/vendor/bin/chamomile_provision \
