@@ -399,7 +399,7 @@ PRODUCT_COPY_FILES += \
     vendor/asus/Z01M/proprietary/bin/xxd:system/bin/xxd \
     vendor/asus/Z01M/proprietary/bin/yes:system/bin/yes \
     vendor/asus/Z01M/proprietary/bin/qmi-framework-tests/qmi_test_mt_client_init_instance:system/bin/qmi-framework-tests/qmi_test_mt_client_init_instance \
-    vendor/asus/Z01M/proprietary/etc/a2dp_audio_policy_configuration - Copy.xml:system/etc/a2dp_audio_policy_configuration - Copy.xml \
+    vendor/asus/Z01M/proprietary/etc/a2dp_audio_policy_configuration.xml:system/etc/a2dp_audio_policy_configuration.xml \
     vendor/asus/Z01M/proprietary/etc/adsp.cfg:system/etc/adsp.cfg \
     vendor/asus/Z01M/proprietary/etc/apdr.conf:system/etc/apdr.conf \
     vendor/asus/Z01M/proprietary/etc/apns-conf.xml:system/etc/apns-conf.xml \
@@ -2017,24 +2017,6 @@ PRODUCT_COPY_FILES += \
     vendor/asus/Z01M/proprietary/priv-app/QtiTetherService/QtiTetherService.apk:system/priv-app/QtiTetherService/QtiTetherService.apk \
     vendor/asus/Z01M/proprietary/priv-app/QtiTetherService/oat/arm64/QtiTetherService.odex:system/priv-app/QtiTetherService/oat/arm64/QtiTetherService.odex \
     vendor/asus/Z01M/proprietary/vendor/qcril.db:system/vendor/qcril.db \
-    vendor/asus/Z01M/proprietary/vendor/app/CABLService/CABLService.apk:system/vendor/app/CABLService/CABLService.apk \
-    vendor/asus/Z01M/proprietary/vendor/app/CABLService/oat/arm64/CABLService.odex:system/vendor/app/CABLService/oat/arm64/CABLService.odex \
-    vendor/asus/Z01M/proprietary/vendor/app/colorservice/colorservice.apk:system/vendor/app/colorservice/colorservice.apk \
-    vendor/asus/Z01M/proprietary/vendor/app/colorservice/oat/arm64/colorservice.odex:system/vendor/app/colorservice/oat/arm64/colorservice.odex \
-    vendor/asus/Z01M/proprietary/vendor/app/ims/ims.apk:system/vendor/app/ims/ims.apk \
-    vendor/asus/Z01M/proprietary/vendor/app/ims/lib/arm64/libimscamera_jni.so:system/vendor/app/ims/lib/arm64/libimscamera_jni.so \
-    vendor/asus/Z01M/proprietary/vendor/app/ims/lib/arm64/libimsmedia_jni.so:system/vendor/app/ims/lib/arm64/libimsmedia_jni.so \
-    vendor/asus/Z01M/proprietary/vendor/app/ims/oat/arm64/ims.odex:system/vendor/app/ims/oat/arm64/ims.odex \
-    vendor/asus/Z01M/proprietary/vendor/app/imssettings/imssettings.apk:system/vendor/app/imssettings/imssettings.apk \
-    vendor/asus/Z01M/proprietary/vendor/app/imssettings/oat/arm64/imssettings.odex:system/vendor/app/imssettings/oat/arm64/imssettings.odex \
-    vendor/asus/Z01M/proprietary/vendor/app/RIDLClient/RIDLClient.apk:system/vendor/app/RIDLClient/RIDLClient.apk \
-    vendor/asus/Z01M/proprietary/vendor/app/RIDLClient/oat/arm64/RIDLClient.odex:system/vendor/app/RIDLClient/oat/arm64/RIDLClient.odex \
-    vendor/asus/Z01M/proprietary/vendor/app/SmartcardService/SmartcardService.apk:system/vendor/app/SmartcardService/SmartcardService.apk \
-    vendor/asus/Z01M/proprietary/vendor/app/SmartcardService/oat/arm64/SmartcardService.odex:system/vendor/app/SmartcardService/oat/arm64/SmartcardService.odex \
-    vendor/asus/Z01M/proprietary/vendor/app/SVIService/SVIService.apk:system/vendor/app/SVIService/SVIService.apk \
-    vendor/asus/Z01M/proprietary/vendor/app/SVIService/oat/arm64/SVIService.odex:system/vendor/app/SVIService/oat/arm64/SVIService.odex \
-    vendor/asus/Z01M/proprietary/vendor/app/TimeService/TimeService.apk:system/vendor/app/TimeService/TimeService.apk \
-    vendor/asus/Z01M/proprietary/vendor/app/TimeService/oat/arm64/TimeService.odex:system/vendor/app/TimeService/oat/arm64/TimeService.odex \
     vendor/asus/Z01M/proprietary/vendor/bin/audioflacapp:system/vendor/bin/audioflacapp \
     vendor/asus/Z01M/proprietary/vendor/bin/chamomile_provision:system/vendor/bin/chamomile_provision \
     vendor/asus/Z01M/proprietary/vendor/bin/esepmdaemon:system/vendor/bin/esepmdaemon \
@@ -2969,8 +2951,7 @@ PRODUCT_COPY_FILES += \
     vendor/asus/Z01M/proprietary/xbin/antradio_app:system/xbin/antradio_app \
     vendor/asus/Z01M/proprietary/xbin/dexlist:system/xbin/dexlist \
     vendor/asus/Z01M/proprietary/xbin/strace:system/xbin/strace \
-    vendor/asus/Z01M/proprietary/xbin/tcpdump:system/xbin/tcpdump \
- \
+    vendor/asus/Z01M/proprietary/xbin/tcpdump:system/xbin/tcpdump
 
 PRODUCT_PACKAGES += \
     access-qcom-logkit \
