@@ -1105,8 +1105,6 @@ PRODUCT_COPY_FILES += \
     vendor/asus/Z01M/proprietary/etc/Compact_mode.cfg:system/etc/Compact_mode.cfg \
     vendor/asus/Z01M/proprietary/etc/Diag.cfg:system/etc/Diag.cfg \
     vendor/asus/Z01M/proprietary/etc/Experience.conf:system/etc/Experience.conf \
-    vendor/asus/Z01M/proprietary/etc/FacebookAppManager:system/etc/FacebookAppManager \
-    vendor/asus/Z01M/proprietary/etc/FacebookInstaller:system/etc/FacebookInstaller \
     vendor/asus/Z01M/proprietary/etc/IPACM_cfg.xml:system/etc/IPACM_cfg.xml \
     vendor/asus/Z01M/proprietary/etc/a2dp_audio_policy_configuration.xml:system/etc/a2dp_audio_policy_configuration.xml \
     vendor/asus/Z01M/proprietary/etc/aanc_tuning_mixer.txt:system/etc/aanc_tuning_mixer.txt \
