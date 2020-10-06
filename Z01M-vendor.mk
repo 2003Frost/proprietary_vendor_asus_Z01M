@@ -281,30 +281,25 @@ PRODUCT_COPY_FILES += \
     vendor/asus/Z01M/proprietary/bin/qmi-framework-tests/qmi_test_mt_client_init_instance:system/bin/qmi-framework-tests/qmi_test_mt_client_init_instance \
     vendor/asus/Z01M/proprietary/etc/adsp.cfg:system/etc/adsp.cfg \
     vendor/asus/Z01M/proprietary/etc/apdr.conf:system/etc/apdr.conf \
-    vendor/asus/Z01M/proprietary/etc/apns-conf.xml:system/etc/apns-conf.xml \
     vendor/asus/Z01M/proprietary/etc/appmanager.conf:system/etc/appmanager.conf \
     vendor/asus/Z01M/proprietary/etc/appops_policy.xml:system/etc/appops_policy.xml \
     vendor/asus/Z01M/proprietary/etc/audio.cfg:system/etc/audio.cfg \
     vendor/asus/Z01M/proprietary/etc/audio_policy_non_eu_configuration.xml:system/etc/audio_policy_non_eu_configuration.xml \
     vendor/asus/Z01M/proprietary/etc/blist.conf:system/etc/blist.conf \
     vendor/asus/Z01M/proprietary/etc/cacert_location.pem:system/etc/cacert_location.pem \
-    vendor/asus/Z01M/proprietary/etc/capability.xml:system/etc/capability.xml \
     vendor/asus/Z01M/proprietary/etc/cdma_call_conf.xml:system/etc/cdma_call_conf.xml \
     vendor/asus/Z01M/proprietary/etc/Compact_mode.cfg:system/etc/Compact_mode.cfg \
-    vendor/asus/Z01M/proprietary/etc/compiled-classes:system/etc/compiled-classes \
     vendor/asus/Z01M/proprietary/etc/default_volume_non_eu_tables.xml:system/etc/default_volume_non_eu_tables.xml \
     vendor/asus/Z01M/proprietary/etc/devconf.json:system/etc/devconf.json \
     vendor/asus/Z01M/proprietary/etc/Diag.cfg:system/etc/Diag.cfg \
     vendor/asus/Z01M/proprietary/etc/Experience.conf:system/etc/Experience.conf \
     vendor/asus/Z01M/proprietary/etc/fm.cfg:system/etc/fm.cfg \
-    vendor/asus/Z01M/proprietary/etc/fonts.xml:system/etc/fonts.xml \
     vendor/asus/Z01M/proprietary/etc/ftm_test_config:system/etc/ftm_test_config \
     vendor/asus/Z01M/proprietary/etc/ftm_test_config_msm8953-sku3-tasha-snd-card:system/etc/ftm_test_config_msm8953-sku3-tasha-snd-card \
     vendor/asus/Z01M/proprietary/etc/ftm_test_config_mtp:system/etc/ftm_test_config_mtp \
     vendor/asus/Z01M/proprietary/etc/ftm_test_config_wcd9335:system/etc/ftm_test_config_wcd9335 \
     vendor/asus/Z01M/proprietary/etc/gamedwhitelist.xml:system/etc/gamedwhitelist.xml \
     vendor/asus/Z01M/proprietary/etc/hcidump.sh:system/etc/hcidump.sh \
-    vendor/asus/Z01M/proprietary/etc/hosts:system/etc/hosts \
     vendor/asus/Z01M/proprietary/etc/hsic.control.bt.sh:system/etc/hsic.control.bt.sh \
     vendor/asus/Z01M/proprietary/etc/init.asus.check_last.sh:system/etc/init.asus.check_last.sh \
     vendor/asus/Z01M/proprietary/etc/init.asus.checkdatalog.sh:system/etc/init.asus.checkdatalog.sh \
@@ -323,9 +318,6 @@ PRODUCT_COPY_FILES += \
     vendor/asus/Z01M/proprietary/etc/init_factorylogtool.sh:system/etc/init_factorylogtool.sh \
     vendor/asus/Z01M/proprietary/etc/logtool_clear.sh:system/etc/logtool_clear.sh \
     vendor/asus/Z01M/proprietary/etc/media_codecs_8953_v1.xml:system/etc/media_codecs_8953_v1.xml \
-    vendor/asus/Z01M/proprietary/etc/media_codecs_google_audio.xml:system/etc/media_codecs_google_audio.xml \
-    vendor/asus/Z01M/proprietary/etc/media_codecs_google_telephony.xml:system/etc/media_codecs_google_telephony.xml \
-    vendor/asus/Z01M/proprietary/etc/media_codecs_google_video.xml:system/etc/media_codecs_google_video.xml \
     vendor/asus/Z01M/proprietary/etc/media_codecs_performance_8953_v1.xml:system/etc/media_codecs_performance_8953_v1.xml \
     vendor/asus/Z01M/proprietary/etc/media_profiles_8953_v1.xml:system/etc/media_profiles_8953_v1.xml \
     vendor/asus/Z01M/proprietary/etc/mixer_paths_mtp_ZE553KL.xml:system/etc/mixer_paths_mtp_ZE553KL.xml \
@@ -337,8 +329,6 @@ PRODUCT_COPY_FILES += \
     vendor/asus/Z01M/proprietary/etc/plmn-conf.xml:system/etc/plmn-conf.xml \
     vendor/asus/Z01M/proprietary/etc/preisp_profiles.xml:system/etc/preisp_profiles.xml \
     vendor/asus/Z01M/proprietary/etc/preisp_profiles_ZD552KL_PHOENIX.xml:system/etc/preisp_profiles_ZD552KL_PHOENIX.xml \
-    vendor/asus/Z01M/proprietary/etc/preloaded-classes:system/etc/preloaded-classes \
-    vendor/asus/Z01M/proprietary/etc/public.libraries.txt:system/etc/public.libraries.txt \
     vendor/asus/Z01M/proprietary/etc/qca6234-service.sh:system/etc/qca6234-service.sh \
     vendor/asus/Z01M/proprietary/etc/qdcm_calib_data_phoenix_tm_rm67198_1080p_command_mode_dsi_panel.xml:system/etc/qdcm_calib_data_phoenix_tm_rm67198_1080p_command_mode_dsi_panel.xml \
     vendor/asus/Z01M/proprietary/etc/spn-conf.xml:system/etc/spn-conf.xml \
