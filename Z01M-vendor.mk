@@ -292,7 +292,6 @@ PRODUCT_COPY_FILES += \
     vendor/asus/Z01M/proprietary/etc/default_volume_non_eu_tables.xml:system/etc/default_volume_non_eu_tables.xml \
     vendor/asus/Z01M/proprietary/etc/devconf.json:system/etc/devconf.json \
     vendor/asus/Z01M/proprietary/etc/Diag.cfg:system/etc/Diag.cfg \
-    vendor/asus/Z01M/proprietary/etc/Experience.conf:system/etc/Experience.conf \
     vendor/asus/Z01M/proprietary/etc/fm.cfg:system/etc/fm.cfg \
     vendor/asus/Z01M/proprietary/etc/ftm_test_config:system/etc/ftm_test_config \
     vendor/asus/Z01M/proprietary/etc/ftm_test_config_msm8953-sku3-tasha-snd-card:system/etc/ftm_test_config_msm8953-sku3-tasha-snd-card \
